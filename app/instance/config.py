@@ -1,0 +1,2 @@
+MOVIE_API_KEY = '<dce988e1199a28b07a85e8ba603d420d>'
+SECRET_KEY = 'Flask WTF Secret Key'
